@@ -10,7 +10,7 @@ description = "La carte postale sonore que j'ai créé en cours de français."
 
 ## Qu'est-ce qu'une carte postale sonore?
 
-
+Une carte postale sonore est une carte postale composée uniquement d'une bande sonore. Celle-ci peut contenir le texte d'une carte postale normale ou, comme dans notre cas, décrire un lieu et être accompagnée de bruits de fond.
 
 ## Ce qu'on a fait
 
