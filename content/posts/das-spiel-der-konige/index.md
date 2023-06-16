@@ -1,7 +1,7 @@
 +++
 title = "Das Spiel der Könige"
 date = "2023-06-16"
-draft = false
+draft = true
 pinned = false
 +++
 ### In stark umkämpften Partien, bei denen jeder kleine Fehler über Sieg oder Niederlage entscheidet, spiele ich um den Sieg eines Turniers des Schachklubs Bern. 
