@@ -1,7 +1,7 @@
 +++
 title = "Das Spiel der Könige"
 date = "2023-06-16"
-draft = false
+draft = true
 pinned = false
 +++
 {{<lead>}}
@@ -27,6 +27,8 @@ Ich überquere den Altenbgsteg, biege nach links ab und folge dem Ufer der Aare.
 
 „Romantisch, aggressiv, kreativ!“ So beschreibt der Jugendleiter und -trainer des Schachklubs Bern seinen Spielstil. Nebenbei spielt Oliver Marti in der 2. Mannschaft des Schachklubs und somit jeweils in der 1. Liga der schweizerischen Mannschaftsmeisterschaft und der schweizerischen Gruppenmeisterschaft. Zum Schachklub Bern, auch SK-Bern genannt, ist Marti durchs Gartenschach gekommen. Die Szene des Gartenschachs zeichnet sich dadurch aus, dass alle Spiele auf den grossen, öffentlichen Brettern ausgetragen werden. Marti war einer der begabtesten Spieler der bernischen Gartenschachszene. Deshalb wurde der Präsident des SK-Bern auf ihn aufmerksam. Bald darauf war er ein nicht mehr wegzudenkender Spieler für den Schachklub. Denn Marti ist einer der begabtesten Spieler seiner Mannschaft. Doch wie ist er zum Schach gekommen? Dafür muss man einen Zeitsprung in seine Kindheit machen.  
 
+![](oli_portrait.jpg)
+
 Schon in jungen Jahren hat Marti ein eigenes Schachset besessen. Damals hat er sich immer gewundert, wieso in seinem Schachset Pferdchen und Türme sind und wie sich all diese Figuren bewegen. So lernte er schon bald die Regeln des Spiels, welches heute seinen Beruf ausmacht. Beruflich ist Marti Geschäftsführer des Schweizerischen Schachbundes, Kassier der Bernischen Schachgemeinschaft und Vorstandsmitglied des Kantonal Bernischen Schachbundes. Man läge jedoch falsch, wenn man denken würde, dass dies alles ist. Neben seinen Berufen ist Marti bis zu viermal pro Woche im Schachklub Bern und spielt auch online immer wieder Schach. Mit seinem interessanten Spielstil, der viele Gambits, also bewusste Opfer von Bauern oder sogar Figuren in der Eröffnung beinhaltet, fährt er regelmässig schnelle Siege gegen unwissende Gegner ein. Trotzdem hat es ihm bis jetzt nicht zu einem Titel gereicht, da der Schweizerische Schachbund den Titel des Nationalen Meisters nicht verteilt. 
 {{</box>}}
 
@@ -43,6 +45,7 @@ Wie ich schnell feststelle, sind ein paar der Gäste blutige Anfänger. Es gibt 
 {{<box>}}
 
 #### Interviewausschnitt
+
 Sie sind sehr engagiert in der Szene, wie ist das für Ihr Umfeld, also die Leute, die kein Schach spielen? Ist das manchmal ein bisschen nervig für die?  
 
 Meine Familie kennt sich halt mehr mit Jassen, Schwingen und Skifahren aus. Da der schweizerische Schachbund einen Milizvorstand hat, also einen Vorstand, der noch einem normalen Beruf nachgeht, muss ich viel am Wochenende arbeiten. Das macht dann auch gewisse Beziehungstechnische Sachen ein bisschen schwieriger und man muss etwas spontaner sein. Mein Umfeld spürt auf jeden Fall, dass ich Schach spiele, aber es ist auch so, dass, wenn man Schach spielt, dass die Schachspieler auch zum eigenen Umfeld werden.  Ich bin hier viel im Verein. Es gab Zeiten da war ich drei bis viermal die Woche hier. Jetzt diese Woche werden es zweimal sein, eben heute und am Klubabend. 
@@ -64,6 +67,6 @@ Eine Sache, die mir besonders auffällt, ist, wie anstrengend Schach sein kann. 
 
 Nach einer halben Unendlichkeit und sieben intensiven Begegnungen endet das Turnier. Anhand der gewonnenen Spiele wird die Rangliste erstellt. Leider bin ich nicht bis ganz an die Spitze gekommen. Ich bin jedoch mit meiner Platzierung im vorderen Mittelfeld zufrieden. Schliesslich war dies mein erstes Schachturnier. Jeder auf dem Podium bekommt jeweils einen kleinen Pokal als Anerkennung. Dem Sieger wird vom Präsidenten sogar ein Jahr Klubmitgliedschaft geschenkt. So findet dieses lustige und trotzdem sehr kompetitive Turnier ein Ende.  
 
-Draussen ist es schon stockdunkel. Vor lauter Schachspielen habe ich die Zeit komplett vergessen. Nach und nach verlassen die Teilnehmer das Lokal und auch ich verabschiede mich. Ich trete in die kühle Nachtluft hinaus. Es ärgert mich immer noch, dass ich die Chancen auf einen Turniersieg schon in der dritten Runde grundlos weggeworfen habe. Ich weiss, dass ich diese Partie hätte gewinnen können und deshalb nervt mich die Niederlage umso mehr. Abgesehen davon hat mir das Turnier mir jedoch erstaunlich viel Spass gemacht und ich könnte mir durchaus vorstellen, wieder einmal an einem Turnier teilzunehmen. Obwohl es mir sehr gefallen hat, bin ich froh, dass das Turnier ein Ende gefunden hat. Diese paar wenigen Stunden, in denen ich mein Konzentrationslevel so hoch halten musste, haben mich enorm erschöpft. So gehe ich in der Finsternis tief durchatmend zurück über den Altenbersteg.  
+Draussen ist es schon stockdunkel. Vor lauter Schachspielen habe ich die Zeit komplett vergessen. Nach und nach verlassen die Teilnehmer das Lokal und auch ich verabschiede mich. Ich trete in die kühle Nachtluft hinaus. Es ärgert mich immer noch, dass ich die Chancen auf einen Turniersieg schon in der dritten Runde grundlos weggeworfen habe. Ich weiss, dass ich diese Partie hätte gewinnen können und deshalb nervt mich die Niederlage umso mehr. Abgesehen davon hat mir das Turnier mir jedoch erstaunlich viel Spass gemacht und ich könnte mir durchaus vorstellen, wieder einmal an einem Turnier teilzunehmen. Obwohl es mir sehr gefallen hat, bin ich froh, dass das Turnier ein Ende gefunden hat. Diese paar wenigen Stunden, in denen ich mein Konzentrationslevel so hoch halten musste, haben mich enorm erschöpft. So gehe ich in der Finsternis tief durchatmend zurück über den Altenbergsteg.  
 
-![]()
+![](aussenansicht_skb.jpg)
