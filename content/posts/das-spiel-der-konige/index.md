@@ -6,7 +6,7 @@ pinned = false
 +++
 {{<lead>}}
 
-In stark umkämpften Partien, bei denen jeder kleine Fehler über Sieg oder Niederlage entscheidet, spiele ich um den Sieg eines Turniers des Schachklubs Bern.
+### In stark umkämpften Partien, bei denen jeder kleine Fehler über Sieg oder Niederlage entscheidet, spiele ich um den Sieg eines Turniers des Schachklubs Bern.
 
 {{<lead>}}
 Von Timon Stalder und Christian Studer Datum Publikation 
@@ -27,7 +27,7 @@ Ich überquere den Altenbgsteg, biege nach links ab und folge dem Ufer der Aare.
 
 „Romantisch, aggressiv, kreativ!“ So beschreibt der Jugendleiter und -trainer des Schachklubs Bern seinen Spielstil. Nebenbei spielt Oliver Marti in der 2. Mannschaft des Schachklubs und somit jeweils in der 1. Liga der schweizerischen Mannschaftsmeisterschaft und der schweizerischen Gruppenmeisterschaft. Zum Schachklub Bern, auch SK-Bern genannt, ist Marti durchs Gartenschach gekommen. Die Szene des Gartenschachs zeichnet sich dadurch aus, dass alle Spiele auf den grossen, öffentlichen Brettern ausgetragen werden. Marti war einer der begabtesten Spieler der bernischen Gartenschachszene. Deshalb wurde der Präsident des SK-Bern auf ihn aufmerksam. Bald darauf war er ein nicht mehr wegzudenkender Spieler für den Schachklub. Denn Marti ist einer der begabtesten Spieler seiner Mannschaft. Doch wie ist er zum Schach gekommen? Dafür muss man einen Zeitsprung in seine Kindheit machen.  
 
-![](oli_portrait.jpg)
+![Portrait von Oliver Marti (Bild: Timon Stalder) (Bern, 13.3.23)](oli_portrait.jpg "Bild 1:")
 
 Schon in jungen Jahren hat Marti ein eigenes Schachset besessen. Damals hat er sich immer gewundert, wieso in seinem Schachset Pferdchen und Türme sind und wie sich all diese Figuren bewegen. So lernte er schon bald die Regeln des Spiels, welches heute seinen Beruf ausmacht. Beruflich ist Marti Geschäftsführer des Schweizerischen Schachbundes, Kassier der Bernischen Schachgemeinschaft und Vorstandsmitglied des Kantonal Bernischen Schachbundes. Man läge jedoch falsch, wenn man denken würde, dass dies alles ist. Neben seinen Berufen ist Marti bis zu viermal pro Woche im Schachklub Bern und spielt auch online immer wieder Schach. Mit seinem interessanten Spielstil, der viele Gambits, also bewusste Opfer von Bauern oder sogar Figuren in der Eröffnung beinhaltet, fährt er regelmässig schnelle Siege gegen unwissende Gegner ein. Trotzdem hat es ihm bis jetzt nicht zu einem Titel gereicht, da der Schweizerische Schachbund den Titel des Nationalen Meisters nicht verteilt. 
 {{</box>}}
