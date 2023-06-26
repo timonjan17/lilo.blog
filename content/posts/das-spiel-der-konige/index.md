@@ -1,7 +1,7 @@
 +++
 title = "Das Spiel der Könige"
 date = "2023-06-16"
-draft = true
+draft = false
 pinned = false
 +++
 {{<lead>}}
@@ -11,11 +11,21 @@ pinned = false
 {{<lead>}}
 Von Timon Stalder und Christian Studer Datum Publikation 
 
-Angestrengt sitze ich mit gerunzelter Stirn an einem Schachbrett. Mein König steht mit dem Rücken zur Wand und es gibt keinen offensichtlichen Ausweg mehr. Ich weiss, dass diese Stellung nicht mehr zu retten ist, und trotzdem spiele ich noch weiter. Ich werfe einen Blick auf die Uhr. Es verbleiben mir noch fünfzig Sekunden. Ich schiebe meinen König ein Feld nach rechts. Wie sich herausstellt, ein fataler Fehler. Die gegnerische Dame schlägt meinen letzten Bauern und plötzlich blockieren meine eigenen Figuren den Fluchtweg meines Königs. Ich werfe meinen König um und gebe auf. Ein Schachmatt war nicht mehr zu verhindern. Ich reiche meinem Gegner die Hand und gratuliere ihm zum Sieg. Meine Hoffnungen auf den Turniersieg sind schon in der dritten Runde geplatzt.  
+![Logo des Berner Schachklubs (Bild: Christian Studer) (Bern, 13.3.23)](logo_skb.jpg)
+
+Angestrengt sitze ich mit gerunzelter Stirn an einem Schachbrett. Mein König steht mit dem Rücken zur Wand und es gibt keinen offensichtlichen Ausweg mehr. Ich weiss, dass diese Stellung nicht mehr zu retten ist, und trotzdem spiele ich noch weiter. Ich werfe einen Blick auf die Uhr. Es verbleiben mir noch fünfzig Sekunden. Ich schiebe meinen König ein Feld nach rechts. Wie sich herausstellt, ein fataler Fehler. Die gegnerische Dame schlägt meinen letzten Bauern und plötzlich blockieren meine eigenen Figuren den Fluchtweg meines Königs. Ich werfe meinen König um und gebe auf. Ein Schachmatt war nicht mehr zu verhindern. Ich reiche meinem Gegner die Hand und gratuliere ihm zum Sieg. Meine Hoffnungen auf den Turniersieg sind schon in der dritten Runde geplatzt. 
+
+![Spielbereich für das Turnier (Bild: Christian Studer) (Bern, 13.3.23)](tische_mit_brettern.jpg)
+
+ 
 
 #### Mein erster Eindruck 
 
-Ich überquere den Altenbgsteg, biege nach links ab und folge dem Ufer der Aare. Kurz darauf stehe ich vor einem einstöckigen, sehr langen Haus, das mich ein bisschen an einen Tierstall erinnert. Das Haus ist jedoch nicht Teil eines alten Bauernhofes, sondern verdankt seine Form der Kegelbahn, die sich früher darin befunden hat. Das Haus gehörte nämlich ursprünglich dem Kegelklub Bern. An einem Schild über dem Eingang kann man den jetzigen Besitzer ablesen. Dieses Lokal ist seit neustem im Besitz des Berner Schachklubs. Von aussen wirkt das Haus ein bisschen heruntergekommen. Nervös trete ich durch die Tür und bleibe überrascht stehen. Drinnen fühle ich mich wie in einer neuen Welt. Fein säuberlich sind in einer langen Reihe Schachbretter auf Tischen aufgestellt. An allen Wänden befinden sich Bilder und Poster über Schach. Im Eingang ist der Boden wie ein Schachbrett mit schwarzen und weissen Feldern gemustert. Von aussen kann man noch die Spuren einer kürzlichen Überschwemmung sehen, doch hier drinnen wirkt es, als hätte dieses Lokal seit Jahren keine schlechten Zeiten mehr erlebt. Ich werde von Oliver Marti, meinem Interviewpartner, begrüsst. Er bietet mir etwas zu trinken an. Mit einem Glas Holunderbeerensirup in der Hand werde ich von Marti durch das Lokal geführt. Die Inneneinrichtung des Lokals ist ungefähr so, wie ich es mir vorgestellt habe. An den Wänden hat es Regale voller Schachbücher und in einer Ecke steht ein riesiges Vorzeigebrett. Was ich jedoch nicht erwartet habe, ist, dass sich hier nicht alles um Schach dreht. Denn hier wird viel mehr als nur Schach gespielt. Im hintersten Teil des Lokals hat es noch andere Spiele und in der Mitte all dieser Spiele steht ein Shogiset, ein Set des japanischen Schachs. Oliver Marti ist der Shogimeister hier im Schachklub. Schon bei der Erklärung der Figuren verstehe ich nichts mehr. Ich entscheide mich dazu, lieber beim Schach zu bleiben. Nach einer ausführlichen Tour durch das Lokal setzen wir uns in einer Ecke auf zwei Sofas und führen das geplante Interview durch. 
+Ich überquere den Altenbgsteg, biege nach links ab und folge dem Ufer der Aare. Kurz darauf stehe ich vor einem einstöckigen, sehr langen Haus, das mich ein bisschen an einen Tierstall erinnert. Das Haus ist jedoch nicht Teil eines alten Bauernhofes, sondern verdankt seine Form der Kegelbahn, die sich früher darin befunden hat. Das Haus gehörte nämlich ursprünglich dem Kegelklub Bern. An einem Schild über dem Eingang kann man den jetzigen Besitzer ablesen. Dieses Lokal ist seit neustem im Besitz des Berner Schachklubs. Von aussen wirkt das Haus ein bisschen heruntergekommen. Nervös trete ich durch die Tür und bleibe überrascht stehen. Drinnen fühle ich mich wie in einer neuen Welt. Fein säuberlich sind in einer langen Reihe Schachbretter auf Tischen aufgestellt. An allen Wänden befinden sich Bilder und Poster über Schach. Im Eingang ist der Boden wie ein Schachbrett mit schwarzen und weissen Feldern gemustert. 
+
+![Aussenansicht des Lokals des Berner Schachklubs (Bild: Timon Stalder) (Bern, 13.3.23)](aussenansicht_skb.jpg)
+
+Von aussen kann man noch die Spuren einer kürzlichen Überschwemmung sehen, doch hier drinnen wirkt es, als hätte dieses Lokal seit Jahren keine schlechten Zeiten mehr erlebt. Ich werde von Oliver Marti, meinem Interviewpartner, begrüsst. Er bietet mir etwas zu trinken an. Mit einem Glas Holunderbeerensirup in der Hand werde ich von Marti durch das Lokal geführt. Die Inneneinrichtung des Lokals ist ungefähr so, wie ich es mir vorgestellt habe. An den Wänden hat es Regale voller Schachbücher und in einer Ecke steht ein riesiges Vorzeigebrett. Was ich jedoch nicht erwartet habe, ist, dass sich hier nicht alles um Schach dreht. Denn hier wird viel mehr als nur Schach gespielt. Im hintersten Teil des Lokals hat es noch andere Spiele und in der Mitte all dieser Spiele steht ein Shogiset, ein Set des japanischen Schachs. Oliver Marti ist der Shogimeister hier im Schachklub. Schon bei der Erklärung der Figuren verstehe ich nichts mehr. Ich entscheide mich dazu, lieber beim Schach zu bleiben. Nach einer ausführlichen Tour durch das Lokal setzen wir uns in einer Ecke auf zwei Sofas und führen das geplante Interview durch. 
 
 > „Romantisch, aggressiv, kreativ! So ist mein Spielstil“ 
 >
@@ -42,6 +52,8 @@ Unterdessen fängt es langsam an zu dämmern. Nach und nach treffen immer mehr T
 
 Wie ich schnell feststelle, sind ein paar der Gäste blutige Anfänger. Es gibt jedoch auch andere, die anscheinend schon ihr ganzes Leben lang Schach spielen. Ich persönlich habe als Kind ab und zu Schach gespielt und habe vor ein paar Monaten wieder angefangen, aktiv mit meinen Kollegen zu spielen. An einem Turnier habe ich jedoch noch nie teilgenommen. Nachdem ich meine kurze Partie beendet habe, gehe ich auf ein paar Leute zu und spreche sie an. Schnell stelle ich fest, dass ich mich sehr gut mit ihnen verstehe. Während ich mit den anderen Teilnehmenden spreche, vergeht die Zeit wie im Fluge.  
 
+![Inneneinrichtung des Lokals des SK-Bern (Bild: Timon Stalder) (Bern, 13.3.23)](bilder_an_wand.jpg)
+
 {{<box>}}
 
 #### Interviewausschnitt
@@ -67,6 +79,4 @@ Eine Sache, die mir besonders auffällt, ist, wie anstrengend Schach sein kann. 
 
 Nach einer halben Unendlichkeit und sieben intensiven Begegnungen endet das Turnier. Anhand der gewonnenen Spiele wird die Rangliste erstellt. Leider bin ich nicht bis ganz an die Spitze gekommen. Ich bin jedoch mit meiner Platzierung im vorderen Mittelfeld zufrieden. Schliesslich war dies mein erstes Schachturnier. Jeder auf dem Podium bekommt jeweils einen kleinen Pokal als Anerkennung. Dem Sieger wird vom Präsidenten sogar ein Jahr Klubmitgliedschaft geschenkt. So findet dieses lustige und trotzdem sehr kompetitive Turnier ein Ende.  
 
-Draussen ist es schon stockdunkel. Vor lauter Schachspielen habe ich die Zeit komplett vergessen. Nach und nach verlassen die Teilnehmer das Lokal und auch ich verabschiede mich. Ich trete in die kühle Nachtluft hinaus. Es ärgert mich immer noch, dass ich die Chancen auf einen Turniersieg schon in der dritten Runde grundlos weggeworfen habe. Ich weiss, dass ich diese Partie hätte gewinnen können und deshalb nervt mich die Niederlage umso mehr. Abgesehen davon hat mir das Turnier mir jedoch erstaunlich viel Spass gemacht und ich könnte mir durchaus vorstellen, wieder einmal an einem Turnier teilzunehmen. Obwohl es mir sehr gefallen hat, bin ich froh, dass das Turnier ein Ende gefunden hat. Diese paar wenigen Stunden, in denen ich mein Konzentrationslevel so hoch halten musste, haben mich enorm erschöpft. So gehe ich in der Finsternis tief durchatmend zurück über den Altenbergsteg.  
-
-![](aussenansicht_skb.jpg)
+Draussen ist es schon stockdunkel. Vor lauter Schachspielen habe ich die Zeit komplett vergessen. Nach und nach verlassen die Teilnehmer das Lokal und auch ich verabschiede mich. Ich trete in die kühle Nachtluft hinaus. Es ärgert mich immer noch, dass ich die Chancen auf einen Turniersieg schon in der dritten Runde grundlos weggeworfen habe. Ich weiss, dass ich diese Partie hätte gewinnen können und deshalb nervt mich die Niederlage umso mehr. Abgesehen davon hat mir das Turnier mir jedoch erstaunlich viel Spass gemacht und ich könnte mir durchaus vorstellen, wieder einmal an einem Turnier teilzunehmen. Obwohl es mir sehr gefallen hat, bin ich froh, dass das Turnier ein Ende gefunden hat. Diese paar wenigen Stunden, in denen ich mein Konzentrationslevel so hoch halten musste, haben mich enorm erschöpft. So gehe ich in der Finsternis tief durchatmend zurück über den Altenbergsteg.
