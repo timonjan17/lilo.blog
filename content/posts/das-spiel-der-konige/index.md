@@ -63,7 +63,7 @@ Meine Familie kennt sich halt mehr mit Jassen, Schwingen und Skifahren aus. Da d
 Wenn Sie Ihren Spielstyl in drei Worten beschreiben müssten, was wären das für Worte?  
 
 Romantisch, aggressiv, kreativ. Ich bin nicht unbedingt ein klassischer Spieler. Ich suche jedoch klassische taktische Muster und kenne mich bei klassischen Partien gut aus, also bei Partien, die älter sind als 100 Jahre. Ich spiele viele Gambits, also Bauernopfer in der Eröffnung. Ich liebe es kreative Sachen zu spielen und scheue auch nicht davor zurück, dies gegen ganz starke Spieler zu tun. Ich habe auch einmal gegen den früheren Weltmeister Vladimir Kramnik in einer Partie ein sehr riskantes Gambit gespielt.
-{{<\box>}}
+{{</box>}}
 
 #### Das Turnier 
 
