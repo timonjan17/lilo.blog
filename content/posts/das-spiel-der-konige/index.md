@@ -27,7 +27,7 @@ Von aussen kann man noch die Spuren einer kürzlichen Überschwemmung sehen, doc
 
 > „Romantisch, aggressiv, kreativ! So ist mein Spielstil“ 
 >
-> *\-Oliver Marti*
+> *Oliver Marti*
 
 {{<box>}}
 
@@ -42,7 +42,7 @@ Schon in jungen Jahren hat Marti ein eigenes Schachset besessen. Damals hat er s
 
 > „Gegen einen früheren Weltmeister habe ich ein sehr riskantes Gambit gespielt.“ 
 >
-> \-*Oliver Marti*
+> *Oliver Marti*
 
 #### Austausch mit anderen Schachbegeisterten 
 
