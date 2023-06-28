@@ -3,6 +3,8 @@ title = "Das Spiel der Könige"
 date = "2023-06-28"
 draft = false
 pinned = false
+tags = ["Deutsch", "Reportage", "Schach", "Schachklubbern"]
+image = "tische_mit_brettern.jpg"
 +++
 {{<lead>}}
 
