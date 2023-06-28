@@ -17,8 +17,6 @@ Angestrengt sitze ich mit gerunzelter Stirn an einem Schachbrett. Mein König st
 
 ![Spielbereich für das Turnier (Bild: Christian Studer) (Bern, 13.3.23)](tische_mit_brettern.jpg)
 
- 
-
 #### Mein erster Eindruck 
 
 Ich überquere den Altenbgsteg, biege nach links ab und folge dem Ufer der Aare. Kurz darauf stehe ich vor einem einstöckigen, sehr langen Haus, das mich ein bisschen an einen Tierstall erinnert. Das Haus ist jedoch nicht Teil eines alten Bauernhofes, sondern verdankt seine Form der Kegelbahn, die sich früher darin befunden hat. Das Haus gehörte nämlich ursprünglich dem Kegelklub Bern. An einem Schild über dem Eingang kann man den jetzigen Besitzer ablesen. Dieses Lokal ist seit neustem im Besitz des Berner Schachklubs. Von aussen wirkt das Haus ein bisschen heruntergekommen. Nervös trete ich durch die Tür und bleibe überrascht stehen. Drinnen fühle ich mich wie in einer neuen Welt. Fein säuberlich sind in einer langen Reihe Schachbretter auf Tischen aufgestellt. An allen Wänden befinden sich Bilder und Poster über Schach. Im Eingang ist der Boden wie ein Schachbrett mit schwarzen und weissen Feldern gemustert. 
@@ -65,7 +63,7 @@ Meine Familie kennt sich halt mehr mit Jassen, Schwingen und Skifahren aus. Da d
 Wenn Sie Ihren Spielstyl in drei Worten beschreiben müssten, was wären das für Worte?  
 
 Romantisch, aggressiv, kreativ. Ich bin nicht unbedingt ein klassischer Spieler. Ich suche jedoch klassische taktische Muster und kenne mich bei klassischen Partien gut aus, also bei Partien, die älter sind als 100 Jahre. Ich spiele viele Gambits, also Bauernopfer in der Eröffnung. Ich liebe es kreative Sachen zu spielen und scheue auch nicht davor zurück, dies gegen ganz starke Spieler zu tun. Ich habe auch einmal gegen den früheren Weltmeister Vladimir Kramnik in einer Partie ein sehr riskantes Gambit gespielt.
-{{<box>}}
+{{<\box>}}
 
 #### Das Turnier 
 
