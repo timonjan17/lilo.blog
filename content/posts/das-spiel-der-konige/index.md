@@ -54,7 +54,7 @@ Wie ich schnell feststelle, sind ein paar der Gäste blutige Anfänger. Es gibt 
 
 {{<box>}}
 
-#### Interviewausschnitt
+#### Auszug aus dem Interview mit Oliver Marti, Jugendtrainer beim Schachklub Bern
 
 Sie sind sehr engagiert in der Szene, wie ist das für Ihr Umfeld, also die Leute, die kein Schach spielen? Ist das manchmal ein bisschen nervig für die?  
 
