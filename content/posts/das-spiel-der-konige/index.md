@@ -11,7 +11,7 @@ image = "tische_mit_brettern.jpg"
 ### In stark umkämpften Partien, bei denen jeder kleine Fehler über Sieg oder Niederlage entscheidet, spiele ich um den Sieg eines Turniers des Schachklubs Bern.
 
 {{<lead>}}
-Von Timon Stalder und Christian Studer Datum Publikation 
+Von Christian Studer und Timon Stalder
 
 ![Logo des Berner Schachklubs (Bild: Christian Studer) (Bern, 13.3.23)](logo_skb.jpg)
 
