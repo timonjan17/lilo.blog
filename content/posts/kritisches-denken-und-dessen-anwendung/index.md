@@ -3,6 +3,8 @@ title = "Kritisches Denken und dessen Anwendung"
 date = "2023-12-18"
 draft = false
 pinned = false
+tags = ["Deutsch", "KritischesDenken"]
+image = "https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fclipartix.com%2Fwp-content%2Fuploads%2F2016%2F11%2FNewspaper-clipart-6-2.jpg&sp=1703232553T44873af714ee1c8b2f01eef909c962a4978bccfe1069eb8e0b9af015b49cf02a"
 +++
 # Kritisches Denken erklärt
 
