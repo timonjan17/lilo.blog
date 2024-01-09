@@ -3,6 +3,7 @@ title = "Fiche de réflexion sur le livre \"Murambi, le livre des ossements\""
 date = "2024-01-09"
 draft = false
 pinned = false
+tags = ["Français", "Livre"]
 image = "https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.OskDzqQztaQbgbTgSyPjCwHaLP%26pid%3DApi&sp=1704815447Tc23acfe9bcdcd20ab726999df45097fa751db0383b4f48c34422163899915b3d"
 +++
 # “Murambi, le livre des ossements” Boubacar Boris Diop
