@@ -4,7 +4,7 @@ date = "2024-01-09"
 draft = false
 pinned = false
 tags = ["Français", "Livre"]
-image = "https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fi.gr-assets.com%2Fimages%2FS%2Fcompressed.photo.goodreads.com%2Fbooks%2F1383166337i%2F468273._UY630_SR1200%2C630_.jpg&sp=1704815585Te5b6450984fe43a89ba485f9acef388974aa5f3ebc0397558773c040a2e7f6d9"
+image = "https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.FHLtOsVIE69EHpRJiZBigAHaD4%26pid%3DApi&sp=1704815676T98c5950eff920c7d067052862f19242bb2d7748a8ab77c29580982dc06f34b1a"
 +++
 # “Murambi, le livre des ossements” Boubacar Boris Diop
 
