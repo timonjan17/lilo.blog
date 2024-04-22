@@ -1,6 +1,5 @@
 +++
 headless = true
-siteHeader = ""
+siteHeader = "<meta name=\"robots\" content=\"noindex\">"
 siteFooter = ""
 +++
-
