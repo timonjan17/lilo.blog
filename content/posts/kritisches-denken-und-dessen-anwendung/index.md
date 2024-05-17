@@ -4,7 +4,7 @@ date = "2023-12-18"
 draft = false
 pinned = false
 tags = ["Deutsch", "KritischesDenken"]
-image = "https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fclipartix.com%2Fwp-content%2Fuploads%2F2016%2F11%2FNewspaper-clipart-6-2.jpg&sp=1703232553T44873af714ee1c8b2f01eef909c962a4978bccfe1069eb8e0b9af015b49cf02a"
+image = "https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fres.cloudinary.com%2Fpeople-matters%2Fimage%2Fupload%2Ffl_immutable_cache%2Cw_624%2Ch_351%2Cw_624%2Ch_351%2Cc_scale%2Cq_auto%2Cf_auto%2Fv1483886939%2F1483886938.jpg&sp=1715928541T277c0f34997b72fba8fc7a3b78662b6f9607815b7a40360938f1bd7b4acdb9b2"
 +++
 # Kritisches Denken erklärt
 
