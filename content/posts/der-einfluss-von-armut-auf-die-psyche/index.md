@@ -4,6 +4,7 @@ date = "2024-04-18"
 draft = false
 pinned = false
 tags = ["Deutsch", "Woyzeck"]
+image = "https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.GAj41RPsNjM3zUFOBgrRogAAAA%26pid%3DApi&sp=1715928602T04187dee24ba909892d770a561dac5bdb06b16808a988cf72310d7226a2cc4b8"
 +++
 ## Wie Woyzecks Psyche an seiner Armut zerbricht
 
