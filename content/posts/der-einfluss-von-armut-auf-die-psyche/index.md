@@ -4,7 +4,7 @@ date = "2024-04-18"
 draft = false
 pinned = false
 tags = ["Deutsch", "Woyzeck"]
-image = "https://images.thalia.media/-/BF2000-2000/8ead1140c6c94651b0ac09bf5028a8f3/woyzeck-epub-georg-buechner.jpeg"
+image = "woyzeck-epub-georg-buechner.webp"
 +++
 ## Wie Woyzecks Psyche an seiner Armut zerbricht
 
