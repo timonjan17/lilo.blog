@@ -4,7 +4,7 @@ date = "2024-04-18"
 draft = false
 pinned = false
 tags = ["Deutsch", "Woyzeck"]
-image = "https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.ow6YzCyV3F4TyFDknDYfZwHaLJ%26pid%3DApi&sp=1716300213T14338fba53d028efc0276f623749a7b881f1a4d195470f5d658ffc54e81259f2"
+image = "https://images.thalia.media/-/BF2000-2000/8ead1140c6c94651b0ac09bf5028a8f3/woyzeck-epub-georg-buechner.jpeg"
 +++
 ## Wie Woyzecks Psyche an seiner Armut zerbricht
 
