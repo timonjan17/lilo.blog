@@ -1,10 +1,11 @@
 +++
-title = "Fundamentalismus vs. Aufklärung: Was wir im Unterricht besprochen haben und wo dieser Konflikt heute noch zu finden ist."
+title = "Fundamentalismus vs. Aufklärung "
 date = "2024-10-31"
 draft = false
 pinned = false
 tags = ["Deutsch", "Lessing"]
-image = "https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fwww.projekt-gutenberg.org%2Fautoren%2Fbilder%2Flessing.jpg&sp=1730391958T79709a5d4a4511f178e5d871685b18a6c556618e34c616a2e4f37ed9cda41ef8"
+image = "proxy-image.jpeg"
+description = "Was wir im Unterricht besprochen haben und wo dieser Konflikt heute noch zu finden ist."
 +++
 # Fundamentalismus und Aufklärung im Unterricht
 
